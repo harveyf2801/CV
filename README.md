@@ -3,9 +3,13 @@
 ## Software Engineer
 
 > :email: **Email:** [hgfretwell@gmail.com](mailto:hgfretwell@gmail.com)
-> :iphone: **Phone:** [+44 7377 693636](tel:447377693636)
+
+> :iphone: **Phone:** [+44 7377 693636](tel:+447377693636;)
+
 > :computer: **GitHub | GitLab:** [harveyf2801](https://github.com/harveyf2801)
+
 > :link: **LinkedIn:** [harveyfretwell](https://linkedin.com/in/harveyfretwell/)
+
 > :globe_with_meridians: **Website:** [harveyf2801.github.io/portfolio/](https://harveyf2801.github.io/portfolio/)
 
 ---
