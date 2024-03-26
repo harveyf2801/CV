@@ -2,11 +2,11 @@
 
 ## Software Engineer
 
-- **Email:** [hgfretwell@gmail.com](mailto:hgfretwell@gmail.com)
-- **Phone:** [+44 7377 693636](tel:447377693636)
-- **GitHub | GitLab:** [harveyf2801](https://github.com/harveyf2801)
-- **LinkedIn:** [harveyfretwell](https://linkedin.com/in/harveyfretwell/)
-- **Website:** [harveyf2801.github.io/portfolio/](https://harveyf2801.github.io/portfolio/)
+> :email: **Email:** [hgfretwell@gmail.com](mailto:hgfretwell@gmail.com)
+> :iphone: **Phone:** [+44 7377 693636](tel:447377693636)
+> :computer: **GitHub | GitLab:** [harveyf2801](https://github.com/harveyf2801)
+> :link: **LinkedIn:** [harveyfretwell](https://linkedin.com/in/harveyfretwell/)
+> :globe_with_meridians: **Website:** [harveyf2801.github.io/portfolio/](https://harveyf2801.github.io/portfolio/)
 
 ---
 
@@ -22,13 +22,13 @@ As a soon-to-be sound engineering graduate with experience in the audio software
 *March 2019 - May 2020*  
 Birmingham City University - Birmingham, UK  
 Bringing hands-on expertise, specifically teaching audio software development including C++ and the JUCE framework to university students.  
-*Skills: C++, Git, JUCE, Computer Science*
+> **Skills**: *C++, Git, JUCE, Computer Science*
 
 **QA Engineer**  
 *August 2022 - August 2023*  
 Audient - Hampshire, UK  
 Developed and implemented a comprehensive CI/CD solution using Python, automating unit, integration, and end-to-end tests for all products. Contributed to various roles such as software development, supporting repairs, and streamlining bug reporting processes for enhanced efficiency.  
-*Skills: Python, C++, JUCE, GitFlow, DSP*
+> **Skills**: *Python, C++, JUCE, GitFlow, DSP*
 
 ---
 
