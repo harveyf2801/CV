@@ -4,7 +4,7 @@
 
 > :email: **Email:** [hgfretwell@gmail.com](mailto:hgfretwell@gmail.com)
 
-> :iphone: **Phone:** [+44 7377 693636](tel:+447377693636)
+> :iphone: **Phone:** [073 • •  • • • • 36](tel:+447377693636)
 
 > :computer: **GitHub | GitLab:** [harveyf2801](https://github.com/harveyf2801)
 
