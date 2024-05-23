@@ -21,7 +21,7 @@ As a soon-to-be sound engineering graduate with experience in the audio software
 ### Work Experience
 
 **Demonstrator**  
-*March 2019 - May 2020*  
+*January 2024 - May 2024*  
 Birmingham City University - Birmingham, UK  
 Bringing hands-on expertise, specifically teaching audio software development including C++ and the JUCE framework to university students.  
 > **Skills**: *C++, Git, JUCE, Computer Science*
@@ -60,10 +60,10 @@ Computer Science: A | Music Technology: A | Music: B
 
 ### Other Projects
 
+- Developed audio effects like compressors and EQs, as well as standalone applications using C++ and JUCE.
 - Created instrument classification models comparing SVM, KNN, and Random Subspace Ensemble, utilising Python, PyTorch, and MATLAB.
 - Implemented a Deep Neural Network in PyTorch for phase aligning two audio sources.
-- Developed audio effects like compressors and EQs, as well as standalone applications using C++ and JUCE.
-- Designed a 2-story multi-purpose recording studio with full acoustic treatment. Additionally, crafted applications to calculate reverberance and assess noise pollution.
+- Crafted applications to calculate reverberance and assess noise pollution while designing a 2-story multi-purpose recording studio with full acoustic treatment.
 - Engineered polyphonic synthesizers with Arduino and DaisySP, using C++.
 - Created a cross-platform automation library in Python using accessibility tags to perform end-to-end testing of applications.
 - Built a custom portfolio website using HTML, CSS, JavaScript, and Jekyll.
